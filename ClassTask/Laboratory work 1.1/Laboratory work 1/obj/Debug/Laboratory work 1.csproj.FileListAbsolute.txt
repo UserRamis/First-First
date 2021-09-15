@@ -1,0 +1,7 @@
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\bin\Debug\Laboratory work 1.exe.config
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\bin\Debug\Laboratory work 1.exe
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\bin\Debug\Laboratory work 1.pdb
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\obj\Debug\Laboratory work 1.csproj.AssemblyReference.cache
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\obj\Debug\Laboratory work 1.csproj.CoreCompileInputs.cache
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\obj\Debug\Laboratory work 1.exe
+C:\Users\Рамис\source\repos\Laboratory work 1\Laboratory work 1\obj\Debug\Laboratory work 1.pdb
