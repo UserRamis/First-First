@@ -1,0 +1,7 @@
+C:\Users\Рамис\source\repos\22\22\obj\Debug\Классная работа.csproj.AssemblyReference.cache
+C:\Users\Рамис\source\repos\22\22\obj\Debug\Классная работа.csproj.CoreCompileInputs.cache
+C:\Users\Рамис\source\repos\22\22\bin\Debug\н.exe.config
+C:\Users\Рамис\source\repos\22\22\bin\Debug\н.exe
+C:\Users\Рамис\source\repos\22\22\bin\Debug\н.pdb
+C:\Users\Рамис\source\repos\22\22\obj\Debug\н.exe
+C:\Users\Рамис\source\repos\22\22\obj\Debug\н.pdb
