@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\bin\Debug\DZ1.exe.config
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\bin\Debug\DZ1.exe
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\bin\Debug\DZ1.pdb
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\obj\Debug\DZ1.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\obj\Debug\DZ1.exe
+C:\Users\user9\source\repos\ClassTask 18.09.21\DZ1\obj\Debug\DZ1.pdb
