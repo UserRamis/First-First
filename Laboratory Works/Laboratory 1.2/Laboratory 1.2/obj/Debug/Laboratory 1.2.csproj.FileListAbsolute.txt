@@ -1,7 +1,0 @@
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\bin\Debug\Laboratory 1.2.exe.config
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\bin\Debug\Laboratory 1.2.exe
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\bin\Debug\Laboratory 1.2.pdb
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\obj\Debug\Laboratory 1.2.csproj.AssemblyReference.cache
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\obj\Debug\Laboratory 1.2.csproj.CoreCompileInputs.cache
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\obj\Debug\Laboratory 1.2.exe
-C:\Users\Рамис\source\repos\Laboratory 1.2\Laboratory 1.2\obj\Debug\Laboratory 1.2.pdb
