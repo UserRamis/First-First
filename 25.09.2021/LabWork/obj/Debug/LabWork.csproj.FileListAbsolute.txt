@@ -1,7 +1,0 @@
-C:\Users\user9\source\repos\25.09.2021\LabWork\bin\Debug\LabWork.exe.config
-C:\Users\user9\source\repos\25.09.2021\LabWork\bin\Debug\LabWork.exe
-C:\Users\user9\source\repos\25.09.2021\LabWork\bin\Debug\LabWork.pdb
-C:\Users\user9\source\repos\25.09.2021\LabWork\obj\Debug\LabWork.csproj.AssemblyReference.cache
-C:\Users\user9\source\repos\25.09.2021\LabWork\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
-C:\Users\user9\source\repos\25.09.2021\LabWork\obj\Debug\LabWork.exe
-C:\Users\user9\source\repos\25.09.2021\LabWork\obj\Debug\LabWork.pdb
