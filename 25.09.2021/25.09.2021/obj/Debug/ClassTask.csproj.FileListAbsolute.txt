@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\bin\Debug\25.09.2021.exe.config
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\bin\Debug\25.09.2021.exe
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\bin\Debug\25.09.2021.pdb
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\obj\Debug\ClassTask.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\obj\Debug\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\obj\Debug\25.09.2021.exe
+C:\Users\user9\source\repos\25.09.2021\25.09.2021\obj\Debug\25.09.2021.pdb
