@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\02.10.2021\DZ2\bin\Debug\DZ2.exe.config
+C:\Users\user9\source\repos\02.10.2021\DZ2\bin\Debug\DZ2.exe
+C:\Users\user9\source\repos\02.10.2021\DZ2\bin\Debug\DZ2.pdb
+C:\Users\user9\source\repos\02.10.2021\DZ2\obj\Debug\DZ2.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\02.10.2021\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\02.10.2021\DZ2\obj\Debug\DZ2.exe
+C:\Users\user9\source\repos\02.10.2021\DZ2\obj\Debug\DZ2.pdb
