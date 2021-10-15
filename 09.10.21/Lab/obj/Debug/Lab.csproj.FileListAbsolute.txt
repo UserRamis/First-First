@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\09.10.21\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\09.10.21\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\09.10.21\Lab\bin\Debug\Lab.exe.config
+C:\Users\user9\source\repos\09.10.21\Lab\bin\Debug\Lab.exe
+C:\Users\user9\source\repos\09.10.21\Lab\bin\Debug\Lab.pdb
+C:\Users\user9\source\repos\09.10.21\Lab\obj\Debug\Lab.exe
+C:\Users\user9\source\repos\09.10.21\Lab\obj\Debug\Lab.pdb

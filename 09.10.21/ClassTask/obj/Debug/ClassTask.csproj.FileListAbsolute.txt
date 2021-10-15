@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\09.10.21\ClassTask\bin\Debug\ClassTask.exe.config
+C:\Users\user9\source\repos\09.10.21\ClassTask\bin\Debug\ClassTask.exe
+C:\Users\user9\source\repos\09.10.21\ClassTask\bin\Debug\ClassTask.pdb
+C:\Users\user9\source\repos\09.10.21\ClassTask\obj\Debug\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\09.10.21\ClassTask\obj\Debug\ClassTask.exe
+C:\Users\user9\source\repos\09.10.21\ClassTask\obj\Debug\ClassTask.pdb
+C:\Users\user9\source\repos\09.10.21\ClassTask\obj\Debug\ClassTask.csproj.AssemblyReference.cache
