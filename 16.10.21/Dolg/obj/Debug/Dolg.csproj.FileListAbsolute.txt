@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\16.10.21\Dolg\bin\Debug\Dolg.exe.config
+C:\Users\user9\source\repos\16.10.21\Dolg\bin\Debug\Dolg.exe
+C:\Users\user9\source\repos\16.10.21\Dolg\bin\Debug\Dolg.pdb
+C:\Users\user9\source\repos\16.10.21\Dolg\obj\Debug\Dolg.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\16.10.21\Dolg\obj\Debug\Dolg.exe
+C:\Users\user9\source\repos\16.10.21\Dolg\obj\Debug\Dolg.pdb
+C:\Users\user9\source\repos\16.10.21\Dolg\obj\Debug\Dolg.csproj.AssemblyReference.cache
