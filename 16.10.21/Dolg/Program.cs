@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 using System.Drawing;
+
+
 namespace Dolg
 {
     class Program
@@ -16,12 +18,9 @@ namespace Dolg
         {
             Оспа = 1,
             Грипп,
-            Чахотка,
+            Грыжа,
             Covid19,
-            Артрит,
-            Сифилис,
-            Гепатит,
-            Лихорадка
+            ОРВИ
         }
         private const string PathToDirWithImages = "C:\\Users\\user9\\source\\repos\\16.10.21\\Images";
         struct Table
@@ -285,8 +284,7 @@ namespace Dolg
                     continue;
                 }
                 newGranny.diseases = new List<Disease>();
-                Console.WriteLine("Список болезней:\n(1)Оспа (2)Грипп (3)Чахотка" +
-                    " (4)Covid19\n(5)Артрит (6)Сифилис (7)Гепатит (8)Лихорадка (Другое)\"Больше\"Нет болезней");
+                Console.WriteLine("Список болезней:\nОспа,Грипп,Грыжа,Ковид,ОРВИ.\"Нет болезней");
                 bool flagExistingDesies = true;
                 while (flagExistingDesies)
                 {

@@ -34,13 +34,13 @@ namespace DZ
     {
         public void CreateAndPrintList()
         {
-            Dictionary<string, Recipes> visitorsDictionary = new Dictionary<string, Recipes>();
+            Dictionary<string, Recipes> recipesDictionary = new Dictionary<string, Recipes>();
             StreamReader fileTextRead = new StreamReader(GetString());
             string stringfromfile; byte numberString = 1;
             while ((stringfromfile = fileTextRead.ReadLine()) != null) //считывание файла построчно пока не кончатся символы
             {
                 string[] oneRecipes = stringfromfile.Split();
-                Recipes recipesNew; //создание нового рецепта
+                Recipes recipesNew; 
                 recipesNew.name = oneRecipes[0];
                 recipesNew.meat = oneRecipes[1];
                 recipesNew.fruit = oneRecipes[2];
@@ -50,12 +50,12 @@ namespace DZ
 
 
 
-                visitorsDictionary.Add(oneRecipes[0] + " " + oneRecipes[1], recipesNew);
+                recipesDictionary.Add(oneRecipes[0] + " " + oneRecipes[1], recipesNew);
                 numberString++; //переход на следующую строку
             }
             numberString = 1;
             Console.WriteLine("*****"+"Список рецептов"+"*****");
-            foreach (KeyValuePair<string, Recipes> keyValue in visitorsDictionary) //печать списка
+            foreach (KeyValuePair<string, Recipes> keyValue in recipesDictionary) //печать списка
             {
                 Console.Write("\n"+"***"+keyValue.Value.name+"***" + "\n"+"Нужно ли мясо? "+ keyValue.Value.meat+ "\n"+ "Нужны ли фрукты? "+keyValue.Value.fruit+ "\n" +"Сколько грамм соли? "+keyValue.Value.salt+"грамм" + "\n"+ "Сколько мл. воды? "+keyValue.Value.water+"мл"+ "\n"+"Сколько минут жарить/готовить? "+keyValue.Value.time+"минут");
                 
