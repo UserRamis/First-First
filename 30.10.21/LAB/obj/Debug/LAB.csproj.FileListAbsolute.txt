@@ -1,0 +1,6 @@
+C:\Users\user9\source\repos\30.10.21\LAB\bin\Debug\LAB.exe.config
+C:\Users\user9\source\repos\30.10.21\LAB\bin\Debug\LAB.exe
+C:\Users\user9\source\repos\30.10.21\LAB\bin\Debug\LAB.pdb
+C:\Users\user9\source\repos\30.10.21\LAB\obj\Debug\LAB.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\30.10.21\LAB\obj\Debug\LAB.exe
+C:\Users\user9\source\repos\30.10.21\LAB\obj\Debug\LAB.pdb
