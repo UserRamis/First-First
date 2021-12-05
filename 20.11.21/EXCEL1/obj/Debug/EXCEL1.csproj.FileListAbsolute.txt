@@ -1,0 +1,8 @@
+C:\Users\user9\source\repos\20.11.21\EXCEL1\bin\Debug\EXCEL1.exe.config
+C:\Users\user9\source\repos\20.11.21\EXCEL1\bin\Debug\EXCEL1.exe
+C:\Users\user9\source\repos\20.11.21\EXCEL1\bin\Debug\EXCEL1.pdb
+C:\Users\user9\source\repos\20.11.21\EXCEL1\obj\Debug\EXCEL1.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\20.11.21\EXCEL1\obj\Debug\EXCEL1.csproj.ResolveComReference.cache
+C:\Users\user9\source\repos\20.11.21\EXCEL1\obj\Debug\EXCEL1.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\20.11.21\EXCEL1\obj\Debug\EXCEL1.exe
+C:\Users\user9\source\repos\20.11.21\EXCEL1\obj\Debug\EXCEL1.pdb
