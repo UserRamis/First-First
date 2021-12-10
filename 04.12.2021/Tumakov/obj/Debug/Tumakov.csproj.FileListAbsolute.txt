@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\04.12.2021\Tumakov\bin\Debug\Tumakov.exe.config
+C:\Users\user9\source\repos\04.12.2021\Tumakov\bin\Debug\Tumakov.exe
+C:\Users\user9\source\repos\04.12.2021\Tumakov\bin\Debug\Tumakov.pdb
+C:\Users\user9\source\repos\04.12.2021\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\04.12.2021\Tumakov\obj\Debug\Tumakov.exe
+C:\Users\user9\source\repos\04.12.2021\Tumakov\obj\Debug\Tumakov.pdb
+C:\Users\user9\source\repos\04.12.2021\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
