@@ -1,0 +1,7 @@
+C:\Users\user9\source\repos\Helloween\Helloween\bin\Debug\Helloween.exe.config
+C:\Users\user9\source\repos\Helloween\Helloween\bin\Debug\Helloween.exe
+C:\Users\user9\source\repos\Helloween\Helloween\bin\Debug\Helloween.pdb
+C:\Users\user9\source\repos\Helloween\Helloween\obj\Debug\Helloween.csproj.AssemblyReference.cache
+C:\Users\user9\source\repos\Helloween\Helloween\obj\Debug\Helloween.csproj.CoreCompileInputs.cache
+C:\Users\user9\source\repos\Helloween\Helloween\obj\Debug\Helloween.exe
+C:\Users\user9\source\repos\Helloween\Helloween\obj\Debug\Helloween.pdb
