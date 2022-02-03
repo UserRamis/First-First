@@ -1,7 +1,0 @@
-C:\Users\user9\source\repos\DOP EX\DOP EX\bin\Debug\DOP EX.exe.config
-C:\Users\user9\source\repos\DOP EX\DOP EX\bin\Debug\DOP EX.exe
-C:\Users\user9\source\repos\DOP EX\DOP EX\bin\Debug\DOP EX.pdb
-C:\Users\user9\source\repos\DOP EX\DOP EX\obj\Debug\DOP EX.csproj.AssemblyReference.cache
-C:\Users\user9\source\repos\DOP EX\DOP EX\obj\Debug\DOP EX.csproj.CoreCompileInputs.cache
-C:\Users\user9\source\repos\DOP EX\DOP EX\obj\Debug\DOP EX.exe
-C:\Users\user9\source\repos\DOP EX\DOP EX\obj\Debug\DOP EX.pdb
